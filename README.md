@@ -6,7 +6,7 @@
 
 ### BABZIP(밥집)은...
     여행하면서 지역별로, 분류별로 맛집을 검색할 수 있는 맛집 검색 사이트
-    이 달의 리뷰왕'에서는 맛집에 대한 리뷰 한줄평을 남기고 조회도 가능하다
+    '이 달의 리뷰왕'에서는 맛집에 대한 리뷰 한줄평을 남기고 조회도 가능하다
  
 
 ### Link : https://xxconst.github.io/BABZIP/BABZIP_FINAL/WebContent/VS_template/index
